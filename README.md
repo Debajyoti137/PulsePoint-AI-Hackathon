@@ -1,5 +1,8 @@
 ⚡ PulsePoint AI
   ByteSize Sage AI Hackathon Submission
+
+Live Preview: https://pulsepoint-ai-hackathon-8mexthds2gzrzsv6zzq3cq.streamlit.app/
+
 🚀 The Pipeline
 PulsePoint AI is an automated video processing pipeline designed to extract high-value "golden nuggets" from long-form content.
 
