@@ -1,0 +1,7 @@
+streamlit
+moviepy==1.0.3
+librosa
+numpy<2.0.0
+mediapipe
+opencv-python-headless
+scipy
